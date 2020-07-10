@@ -1,0 +1,31 @@
+#about {
+    border-top:.4em solid white;
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center;
+    text-align: center;
+    background-image: url('../img/bollocking/black_background.jpg');
+    padding-bottom:12em;
+    border-bottom:.4em solid white;
+}
+
+#gallery {
+    border-top:.4em solid white;
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center;
+    text-align: center;
+    background-image: url('../img/bollocking/black_background.jpg');
+    padding-bottom:12em;
+    border-bottom:.4em solid white;
+}
